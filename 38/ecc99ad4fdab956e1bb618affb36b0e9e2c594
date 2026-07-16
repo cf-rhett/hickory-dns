@@ -1,0 +1,24 @@
+crates/resolver/src/system_conf/mod.rs
+  s_ed66febac7fd80::t_98eebc2aee3d1a 46-125
+crates/resolver/src/system_conf/apple.rs
+  s_ed66febac7fd80::t_369a2dd5bbe90f 3
+  s_ed66febac7fd80::t_e4486cbda7657c 68,70
+crates/resolver/src/system_conf/windows.rs
+  s_ed66febac7fd80::t_83dac1cea3b174 39,42-43,46-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "38ecc99ad4fdab956e1bb618affb36b0e9e2c594",
+  "prompts": {},
+  "sessions": {
+    "s_ed66febac7fd80": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_094d639eeffezIwBHjVDcJyG4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    }
+  }
+}
