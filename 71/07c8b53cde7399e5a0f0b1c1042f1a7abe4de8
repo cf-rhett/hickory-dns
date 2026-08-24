@@ -1,0 +1,24 @@
+crates/resolver/src/name_server.rs
+  s_03631993fd83dd::t_fb8acc4a6bab2b 54,2690-2693,2724-2727
+  s_03631993fd83dd::t_9cdbb9dfaa3a35 271,295-333,2609,2723,2729
+  s_03631993fd83dd::t_7c90b75aa2f59f 21
+  s_03631993fd83dd::t_d4f91b7a798e10 53,334-337,2717-2722,2728
+  s_03631993fd83dd::t_622d83ce525d0b 51-52
+  s_03631993fd83dd::t_7ed6f581016f27 22,55-56,64,105,133,338-339,638,2072,2077,2512,2596-2608,2610-2620,2658-2660,2684-2685,2694-2697,2712,2730-2731
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7107c8b53cde7399e5a0f0b1c1042f1a7abe4de8",
+  "prompts": {},
+  "sessions": {
+    "s_03631993fd83dd": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fee6232a4ffebDhLw6GQeZsD6U",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    }
+  }
+}
