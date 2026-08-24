@@ -1,0 +1,23 @@
+crates/net/src/error.rs
+  s_03631993fd83dd::t_c2fbd0d1821b26 43-48
+  s_03631993fd83dd::t_6f83e37a48a34a 188,221
+crates/net/src/xfer/mod.rs
+  s_03631993fd83dd::t_d4b8725fd6641c 336
+  s_03631993fd83dd::t_7f4c2720939328 482-507
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6511dd2fa592b0c9b9ae7c66f32e372db2c2986d",
+  "prompts": {},
+  "sessions": {
+    "s_03631993fd83dd": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fee6232a4ffebDhLw6GQeZsD6U",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    }
+  }
+}
