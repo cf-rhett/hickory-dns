@@ -1,0 +1,111 @@
+crates/resolver/src/name_server.rs
+  s_7be30e9d98caf9::t_30321ef60849d1 2648,2650-2653,2777-2786,2788-2791,2795-2803
+  s_49e324f1870580::t_45443fd9bd8f43 1700,1737,1771,1809,1835,1868,1923,1965,2026,2072,2077,2090
+  s_7be30e9d98caf9::t_d5581d2060eb67 2615,2617-2618,2623
+  s_d8f241a5f844e4::t_860d7310472df0 270,306-309,312-316,320,325,329-334,336
+  s_49e324f1870580::t_6acf04933b09b1 61,135,142-143,209-211,261,269,273-274,281,283,296,298,305,311,326-328,335
+  s_7be30e9d98caf9::t_d6f6768aa3b1e0 224-227
+  s_7be30e9d98caf9::t_8bc34c47b39c40 260,2552,2827,2909,2934,2939,2973
+  s_49e324f1870580::t_6be5c3cebbb2f9 905
+  s_6ff70e5b9dc643::t_715fbf24541fd9 12,102,310
+  s_03631993fd83dd::t_9cdbb9dfaa3a35 262,338,2900,2906
+  s_03631993fd83dd::t_d4f91b7a798e10 340-342,344,2895-2899,2905
+  s_49e324f1870580::t_9974800a36ae9f 622,624-626,629,635,913-928,931-933
+  s_d8f241a5f844e4::t_2629dadf77a83a 266-268,271-272,275-280,282,284-295,297,299-304,343,346,360,373-377
+  s_ea5ad0cc644178::t_c6f2392ce45e9c 2518,2522,2524,2794
+  s_7f002ba2659335::t_2f0f248fbd4ceb 2536
+  s_49e324f1870580::t_d6745b3770e5d8 2657,2661,2704,2707,2732,2736,2761,2764,2770,2792
+  s_03631993fd83dd::t_7ed6f581016f27 53,130,345,630,2082,2087,2624-2633,2635-2641,2747,2838,2862-2863,2872-2875,2890,2907-2908
+  s_7f002ba2659335::t_1dadc29f16b0dd 2694-2701
+  s_03631993fd83dd::t_fb8acc4a6bab2b 2868-2871,2901-2904
+  s_d8f241a5f844e4::t_4c6c75604a7a0e 52
+  s_6f90954dea3a1d::t_9a89a0a1a39640 2520,2537,2541-2544,2642-2646,2681-2686,2688,2690,2703,2706,2709-2714,2717,2720-2729,2731,2733-2735,2737-2746,2748-2758,2760,2762-2763,2765-2769,2771-2776,2793
+  s_7be30e9d98caf9::t_985571e32a3e15 2546
+  s_2ae0265a25a38a::t_eb5cc7ead9f6c9 2515,2559-2571,2583,2634,2654,2730,2759,2787,2807,2837
+  s_7be30e9d98caf9::t_91a0981084a790 2649,2656
+  s_6ff70e5b9dc643::t_00d1f6ee4e6609 23
+  s_03631993fd83dd::t_7c90b75aa2f59f 22
+  s_7f002ba2659335::t_44323515dec9d8 2529,2532-2533,2647,2655,2658-2660,2662-2680,2687,2689,2691-2693,2702,2705,2708,2715-2716,2718-2719
+Cargo.toml
+  s_ea5ad0cc644178::t_c6f2392ce45e9c 60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0aef77e6f4b0e6802362c94dc008c8579b4ad0f0",
+  "prompts": {},
+  "sessions": {
+    "s_03631993fd83dd": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fee6232a4ffebDhLw6GQeZsD6U",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_2ae0265a25a38a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbaf7135dffeejpaVyprYl8wYW",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_49e324f1870580": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbaef58a3ffeMW3pZS4kvq8VX6",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_6f90954dea3a1d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbb6106ffffeDaZZXnzQJOpF7j",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    },
+    "s_6ff70e5b9dc643": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbb5dc9afffeckrGi2DUEVBPeg",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    },
+    "s_7be30e9d98caf9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbbd12c8bffeYaNY3WpTkNJYq5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_7f002ba2659335": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbb04574bffetLQzGgNEtJYOYo",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_d8f241a5f844e4": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbb002698ffeo7rWgmpZwmfTps",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_ea5ad0cc644178": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbb916d10ffeZht3tlvDIhawNX",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
