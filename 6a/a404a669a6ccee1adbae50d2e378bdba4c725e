@@ -1,0 +1,19 @@
+crates/resolver/src/name_server_pool.rs
+  s_7be30e9d98caf9::t_54b1ea6546302d 579-610
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6aa404a669a6ccee1adbae50d2e378bdba4c725e",
+  "prompts": {},
+  "sessions": {
+    "s_7be30e9d98caf9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbbd12c8bffeYaNY3WpTkNJYq5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    }
+  }
+}
