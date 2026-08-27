@@ -1,0 +1,64 @@
+Cargo.toml
+  s_ea5ad0cc644178::t_c6f2392ce45e9c 60
+crates/resolver/src/name_server.rs
+  s_03631993fd83dd::t_d4f91b7a798e10 318-321,2846-2851,2857
+  s_ea5ad0cc644178::t_c6f2392ce45e9c 2492,2497,2499,2739
+  s_6ff70e5b9dc643::t_715fbf24541fd9 12,62,103,273-279,296-313,850
+  s_7be30e9d98caf9::t_30321ef60849d1 2716-2736,2740-2748
+  s_03631993fd83dd::t_7ed6f581016f27 54,131,322-323,622,2056,2061,2588-2600,2602-2609,2680,2749,2787-2789,2813-2814,2823-2826,2841,2859-2860
+  s_ea5ad0cc644178::t_75109a2e0f3b13 52-53,315
+  s_ea5ad0cc644178::t_4e6277ef965f86 2737
+  s_6ff70e5b9dc643::t_00d1f6ee4e6609 23
+  s_6f90954dea3a1d::t_9a89a0a1a39640 2495,2509,2513-2516,2610-2679,2681-2715,2738
+  s_03631993fd83dd::t_7c90b75aa2f59f 22
+  s_03631993fd83dd::t_fb8acc4a6bab2b 2819-2822,2853-2856
+  s_03631993fd83dd::t_9cdbb9dfaa3a35 269,314,316,2601,2852,2858
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "443e80efcac9fd8fd437ae744c8f509dcf2ee82c",
+  "prompts": {},
+  "sessions": {
+    "s_03631993fd83dd": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fee6232a4ffebDhLw6GQeZsD6U",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_6f90954dea3a1d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbb6106ffffeDaZZXnzQJOpF7j",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    },
+    "s_6ff70e5b9dc643": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbb5dc9afffeckrGi2DUEVBPeg",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    },
+    "s_7be30e9d98caf9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbbd12c8bffeYaNY3WpTkNJYq5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    },
+    "s_ea5ad0cc644178": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbb916d10ffeZht3tlvDIhawNX",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
