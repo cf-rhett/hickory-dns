@@ -1,6 +1,7 @@
 crates/resolver/src/name_server.rs
   s_7be30e9d98caf9::t_f71d4dc759a094 2667,2671,2877,3072-3119
   s_7be30e9d98caf9::t_340b49e57424d2 3120
+  s_7be30e9d98caf9::t_07a5c1935506c7 2673,3071
 ---
 {
   "schema_version": "authorship/3.0.0",
