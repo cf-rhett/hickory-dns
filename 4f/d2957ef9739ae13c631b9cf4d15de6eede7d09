@@ -1,0 +1,204 @@
+Cargo.toml
+  s_ea5ad0cc644178::t_c6f2392ce45e9c 60
+crates/resolver/src/name_server.rs
+  s_6f90954dea3a1d::t_9a89a0a1a39640 2761-2764,2782,2841-2846,2848,2850,2863,2866,2869-2874,2877-2886,2888,2890-2892,2894-2903,2905-2915,2917,2919-2920,2922-2926,2928-2929,2946,3005
+  s_7be30e9d98caf9::t_57943bccaba846 266,316,328,341,345-349,352-353,364,391-394
+  s_08cca5a067d9b6::t_eee8cf44894e9b 2671
+  s_7be30e9d98caf9::t_20dfec7ccde0b2 351,354
+  s_7be30e9d98caf9::t_c985747d55d421 2582-2588
+  s_03631993fd83dd::t_fb8acc4a6bab2b 3059-3060,3109
+  s_6ff70e5b9dc643::t_00d1f6ee4e6609 23
+  s_49e324f1870580::t_d6745b3770e5d8 2119,2793,2797,2864,2867,2889,2893,2918,2921,2927,2945,3039
+  s_7be30e9d98caf9::t_cb1b19202498d9 675
+  s_7f002ba2659335::t_1dadc29f16b0dd 2854-2861
+  s_49e324f1870580::t_6acf04933b09b1 62,136,143,213-214,262,274,278-279,286,288,305,317,324
+  s_68a9c76d1381c8::t_cc0ba159b5188c 2693-2694
+  s_54ee893928bdd3::t_7e36d935a8469c 2552,2814-2835
+  s_ffb45668264ccc::t_342c4968d04dc1 2699-2700
+  s_03631993fd83dd::t_9cdbb9dfaa3a35 263,343
+  s_d8f241a5f844e4::t_2629dadf77a83a 267,272-273,276-277,280-285,287,289-294,299-304,306-310,361,378
+  s_131e2eeabfd1bc::t_edb1c59394806d 207-209,228,339
+  s_68a9c76d1381c8::t_c0c16d6ab96883 2993,3070-3079,3083,3091-3100
+  s_7be30e9d98caf9::t_985571e32a3e15 2569
+  s_7f002ba2659335::t_44323515dec9d8 2557,2783,2791,2794-2796,2798-2799,2801-2813,2838-2839,2847,2849,2851-2853,2862,2865,2868,2875-2876
+  s_7be30e9d98caf9::t_af8233dbf53b39 344
+  s_7be30e9d98caf9::t_5fef3188a444ff 331,338,350,355,445,670,676-694,872-878,891,3068
+  s_ea5ad0cc644178::t_c6f2392ce45e9c 2947
+  s_7be30e9d98caf9::t_8bc34c47b39c40 261,946,2594,2598,3040,3066-3067,3104,3110
+  s_03631993fd83dd::t_7ed6f581016f27 54,131,265,363,639,2570,2665,2745-2752,2754-2760,2904,3003,3030-3031,3065
+  s_fdb20b76eab7b6::t_64af5f6657e4cc 2765-2779
+  s_7be30e9d98caf9::t_30321ef60849d1 2784,2786-2789,2930-2939,2941-2944,2948-2956,3042,3044
+  s_7be30e9d98caf9::t_694e83ebadc69c 2579,2800
+  s_7be30e9d98caf9::t_8286e8ed49d1ae 311,320
+  s_49e324f1870580::t_45443fd9bd8f43 2114
+  s_7be30e9d98caf9::t_91a0981084a790 2785,2792
+  s_3ce474360f01fa::t_34e2d5e34e4ee2 674,2744,2781,2837
+  s_49e324f1870580::t_9974800a36ae9f 954-969,972-974
+  s_03631993fd83dd::t_7c90b75aa2f59f 22
+  s_03631993fd83dd::t_d4f91b7a798e10 264,358-360,362
+  s_7be30e9d98caf9::t_200395603500ee 52-53,139,211,215
+  s_7be30e9d98caf9::t_a09dc126b681bf 268-271,295-298
+  s_7be30e9d98caf9::t_e899ddbd32c54b 158,662,2840
+  s_7be30e9d98caf9::t_f095c6a33897d3 312-315
+  s_ffb45668264ccc::t_b7a5457fbe07af 2600,2688-2692,2697-2698,2701-2741,2958
+  s_08cca5a067d9b6::t_5abd7dde52d38d 356,673,2580,2669,2672,2677-2687,2743,2780,2836
+  s_7be30e9d98caf9::t_3d14125f1d626b 2573,2577-2578,2626
+  s_d8f241a5f844e4::t_860d7310472df0 275,318-319,321-322,329,332,337
+  s_2ae0265a25a38a::t_eb5cc7ead9f6c9 2601,2607,2614-2625,2753,2790,2887,2916,2940,2960,3035
+  s_5316ce04a593f5::t_e8dc47a166bf9c 2695-2696,2742
+  s_6ff70e5b9dc643::t_715fbf24541fd9 12,103,323
+  s_7be30e9d98caf9::t_0540471be0a555 663-669,671-672
+  s_e0834299b4b90d::t_f3cb63289973e6 212,1741,1778,1812,1850,1876,1909,1964,2006,2067,2113,2124,2127,2555,2559,2561,2565-2566,2589-2593,2595-2597,2599,2638,2663,2957,2959,2961-2969,2973,3004,3006,3037-3038,3041,3043,3069,3101-3103,3105-3108,3111-3113,3117,3151
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4fd2957ef9739ae13c631b9cf4d15de6eede7d09",
+  "prompts": {},
+  "sessions": {
+    "s_03631993fd83dd": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fee6232a4ffebDhLw6GQeZsD6U",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_08cca5a067d9b6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbacf58c1ffe41LR1UjPtJnwR9",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_131e2eeabfd1bc": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbacdefe3ffe715Y3s2AT6HvXD",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_2ae0265a25a38a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbaf7135dffeejpaVyprYl8wYW",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_3ce474360f01fa": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbab0ac37ffeUNURUsvkmcSRcz",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_49e324f1870580": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbaef58a3ffeMW3pZS4kvq8VX6",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_5316ce04a593f5": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbad109ebffeRgG0N2zQqwthGj",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_54ee893928bdd3": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbad81f5cffeU1AyVS9SiRPgXN",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_68a9c76d1381c8": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbad3a51fffe62HHpki86rkDzA",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_6f90954dea3a1d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbb6106ffffeDaZZXnzQJOpF7j",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    },
+    "s_6ff70e5b9dc643": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbb5dc9afffeckrGi2DUEVBPeg",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    },
+    "s_7be30e9d98caf9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbbd12c8bffeYaNY3WpTkNJYq5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    },
+    "s_7f002ba2659335": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbb04574bffetLQzGgNEtJYOYo",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_d8f241a5f844e4": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbb002698ffeo7rWgmpZwmfTps",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_e0834299b4b90d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fc198776cffe291AHBHfU6rnQL",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_ea5ad0cc644178": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbb916d10ffeZht3tlvDIhawNX",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    },
+    "s_fdb20b76eab7b6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbad5d9baffe342dz2HYEbRs9v",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_ffb45668264ccc": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbabe5019ffexjMBJjqxvuwUy0",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    }
+  }
+}
