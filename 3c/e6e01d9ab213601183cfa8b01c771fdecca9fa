@@ -1,0 +1,180 @@
+Cargo.toml
+  s_ea5ad0cc644178::t_c6f2392ce45e9c 60
+crates/resolver/src/name_server.rs
+  s_49e324f1870580::t_d6745b3770e5d8 2114,2738-2739,2742,2748,2835
+  s_ffb45668264ccc::t_b7a5457fbe07af 2662-2663,2673
+  s_7be30e9d98caf9::t_f095c6a33897d3 315-318
+  s_7be30e9d98caf9::t_a09dc126b681bf 271-274,298-301
+  s_7be30e9d98caf9::t_8286e8ed49d1ae 314,323
+  s_beed49e1b81d87::t_9a8e476c1470ca 331,344-349,356,363-368
+  s_7be30e9d98caf9::t_eda0562f56b3c0 875-876,2765
+  s_08cca5a067d9b6::t_5abd7dde52d38d 369
+  s_7f002ba2659335::t_44323515dec9d8 2705,2707-2708
+  s_131e2eeabfd1bc::t_edb1c59394806d 342
+  s_beed49e1b81d87::t_854c4c0e327aea 652,659,873
+  s_49e324f1870580::t_45443fd9bd8f43 2109
+  s_beed49e1b81d87::t_9e9bc423a811a2 2727-2728
+  s_beed49e1b81d87::t_415a40e0b401d1 2639-2661,2664-2672,2674-2684
+  s_fdb20b76eab7b6::t_64af5f6657e4cc 2694-2704
+  s_7be30e9d98caf9::t_20dfec7ccde0b2 359,362
+  s_d8f241a5f844e4::t_2629dadf77a83a 270,275-276,279-280,283-288,290,292-297,302-307,309-313,374,391
+  s_7be30e9d98caf9::t_5fef3188a444ff 334,341,358,871-872,874,2863
+  s_03631993fd83dd::t_7c90b75aa2f59f 22
+  s_03631993fd83dd::t_9cdbb9dfaa3a35 266,351
+  s_7be30e9d98caf9::t_30321ef60849d1 2751-2760,2762-2763,2838,2840
+  s_6f90954dea3a1d::t_9a89a0a1a39640 2690-2693,2706,2718,2726,2729-2734,2740-2741,2743-2747,2749-2750
+  s_d8f241a5f844e4::t_860d7310472df0 278,321-322,324-325,332,335,340
+  s_49e324f1870580::t_9974800a36ae9f 328,949-964,967-969
+  s_beed49e1b81d87::t_3e8012ab093acc 2725,2737
+  s_beed49e1b81d87::t_2d43c1bac21185 2717,2719-2724,2736
+  s_6ff70e5b9dc643::t_715fbf24541fd9 12,103,326
+  s_03631993fd83dd::t_7ed6f581016f27 54,131,330,376,667,2685-2689,2802,2827-2828,2860
+  s_e0834299b4b90d::t_f3cb63289973e6 1736,1773,1807,1845,1871,1904,1959,2001,2062,2108,2119,2122,2767,2803,2833-2834,2837,2839,2864
+  s_49e324f1870580::t_6acf04933b09b1 62,145,265,277,281-282,289,291,308,320,327
+  s_7f002ba2659335::t_1dadc29f16b0dd 2709-2716
+  s_2ae0265a25a38a::t_eb5cc7ead9f6c9 2735,2761
+  s_68a9c76d1381c8::t_c0c16d6ab96883 2764,2865-2873
+  s_7be30e9d98caf9::t_200395603500ee 52-53
+  s_03631993fd83dd::t_fb8acc4a6bab2b 2855
+  s_7be30e9d98caf9::t_8bc34c47b39c40 264,941,2836,2861-2862
+  s_6ff70e5b9dc643::t_00d1f6ee4e6609 23
+  s_03631993fd83dd::t_d4f91b7a798e10 329,371-373,375
+  s_7be30e9d98caf9::t_57943bccaba846 319,353-355,357,360-361,377,404-407
+  s_beed49e1b81d87::t_96bc3a0afd1670 370,2766
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3ce6e01d9ab213601183cfa8b01c771fdecca9fa",
+  "prompts": {},
+  "sessions": {
+    "s_03631993fd83dd": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fee6232a4ffebDhLw6GQeZsD6U",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_08cca5a067d9b6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbacf58c1ffe41LR1UjPtJnwR9",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_131e2eeabfd1bc": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbacdefe3ffe715Y3s2AT6HvXD",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_2ae0265a25a38a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbaf7135dffeejpaVyprYl8wYW",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_49e324f1870580": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbaef58a3ffeMW3pZS4kvq8VX6",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_68a9c76d1381c8": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbad3a51fffe62HHpki86rkDzA",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_6f90954dea3a1d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbb6106ffffeDaZZXnzQJOpF7j",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    },
+    "s_6ff70e5b9dc643": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbb5dc9afffeckrGi2DUEVBPeg",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    },
+    "s_7be30e9d98caf9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbbd12c8bffeYaNY3WpTkNJYq5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    },
+    "s_7f002ba2659335": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbb04574bffetLQzGgNEtJYOYo",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_beed49e1b81d87": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fb7bc80c8ffe1W0xTIPYdTBWI0",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    },
+    "s_d8f241a5f844e4": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbb002698ffeo7rWgmpZwmfTps",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_e0834299b4b90d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fc198776cffe291AHBHfU6rnQL",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_ea5ad0cc644178": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbb916d10ffeZht3tlvDIhawNX",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    },
+    "s_fdb20b76eab7b6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbad5d9baffe342dz2HYEbRs9v",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_ffb45668264ccc": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbabe5019ffexjMBJjqxvuwUy0",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    }
+  }
+}
